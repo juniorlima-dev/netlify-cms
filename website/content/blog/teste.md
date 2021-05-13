@@ -18,7 +18,7 @@ dfgnndfn
 >
 >    1. khl.hklhjkl;khl;hkl
 >
-![fgndfgnd](/img/gatsby.svg)
+> ![fgndfgnd](/img/gatsby.svg)
 >
 >          fgndfgn
 >
